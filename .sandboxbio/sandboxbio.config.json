@@ -1,0 +1,6 @@
+{
+  "welcome": "ゲノムインフォマティクス入門：コマンドライン実習",
+  "welcomeCmd": "ls -l",
+  "setup": "mkdir -p results",
+  "tools": ["seqkit", "blastn", "blastp", "makeblastdb"]
+}

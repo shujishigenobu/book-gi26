@@ -1,7 +1,5 @@
 
-# SeqKitによるFASTA配列の操作
-
-本書で使用する配列ファイル `input.fa` を用いて、SeqKitの基本操作を試す。
+# 第１章：Hello ゲノム!
 
 ## 1. ファイルを確認する
 
@@ -26,3 +24,5 @@ seqkit stats input.fa
 ```bash
 seqkit seq -r -p input.fa
 ```
+
+[seqkit](seqkit)
